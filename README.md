@@ -75,6 +75,7 @@ Welcome to my GitHub page! Here, you'll find a collection of projects and contri
 
 #### CI/CD Pipeline in action:
 ![CI/CD Pipeline](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTF5eXl4emZuaWFsNWoxcXpiaXFpbHJ4NmhoaG91czF3eGdnenIyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+
 ## 🛠️ Languages and Tools
 
 <p align="left">
@@ -85,12 +86,13 @@ Welcome to my GitHub page! Here, you'll find a collection of projects and contri
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
   <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azuredevops"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-  <!-- Add more badges here -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
+  <!-- Add Iron Bank badge here if available -->
 </p>
 
 ### My GitHub Stats:
