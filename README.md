@@ -1,3 +1,7 @@
+![Profile Picture](/my image.jpg)
+
+
+
 # Hi there, I'm Mohammed 👋
 
 ## Cloud Solution Architect & DevOps Engineer ☁️🛠️
