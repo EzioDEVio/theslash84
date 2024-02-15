@@ -2,8 +2,6 @@
   <img src="/GITProfile-image.jpg.jpg" alt="Profile Image" width="460" />
 </div>
 
-
-
 # Hi there, I'm Mohammed 👋
 
 ## Cloud Solution Architect & DevOps Engineer ☁️🛠️
@@ -19,7 +17,7 @@ Welcome to my GitHub page! Here, you'll find a collection of projects and contri
 💬 Ask me about Azure, AWS, Kubernetes, Docker, CI/CD pipelines, and anything about cloud computing!  
 📫 How to reach me: mohammed.k.aldaraji@hotmail.com  
 😄 Pronouns: He/Him/They/Them  
-⚡ Fun fact: I'm a cloud enthusiast who loves to play with code and innovative tech solutions.  
+⚡ Fun fact: I'm a cloud enthusiast who loves to play with code and innovative tech solutions.
 
 ### What I'm working on:
 
@@ -30,31 +28,30 @@ Welcome to my GitHub page! Here, you'll find a collection of projects and contri
 
 ### Languages and Tools:
 
-\```plaintext
 Azure, AWS, GCP, Kubernetes, Docker, Terraform, Ansible, Jenkins, Git, Python, Bash, and many more...
-\```
 
 ### My GitHub Stats:
 
-![theslash84's GitHub stats](https://github-readme-stats.vercel.app/api?username=theslash84&show_icons=true&theme=radical)
+![theslash84's GitHub stats](https://github-readme-stats.vercel.app/api?username=theslash84&show_icons=true&theme=tokyonight)
 
+<h3 align="left">🚀 Skills and Tools:</h3>
+<p align="left">
+  <!-- Add your skills with badges here, using https://shields.io/ -->
+</p>
 
 ### Connect with Me:
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)][twitter]
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white)][medium]
+[<img align="left" alt="Mohammed Aldaraji | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />][linkedin]
+[<img align="left" alt="KhalidIQ2021 | Twitter" width="22px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
+[<img align="left" alt="EzioDev | Medium" width="22px" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white" />][medium]
 
-[linkedin]: https://www.linkedin.com/in/mohammed-aldaraji-736456b9/
-[twitter]: https://twitter.com/KhalidIQ2021
-[medium]: https://medium.com/@EzioDev
-
+<br />
 
 ### Featured Projects:
 
 - 🔒 [Secure Cloud Architecture](#) - A project focused on implementing security best practices in cloud deployments.  
 - 📊 [Cloud Analytics Platform](#) - Enabling insightful analytics and BI on cloud data.  
-- 🔄 [CI/CD Pipeline Templates](#) - Templates and guides for setting up continuous integration and deployment pipelines.  
+- 🔄 [CI/CD Pipeline Templates](#) - Templates and guides for setting up continuous integration and deployment pipelines.
 
 ### Recent Blog Posts:
 
@@ -67,4 +64,3 @@ Azure, AWS, GCP, Kubernetes, Docker, Terraform, Ansible, Jenkins, Git, Python, B
 [linkedin]: https://www.linkedin.com/in/mohammed-aldaraji-736456b9/
 [twitter]: https://twitter.com/KhalidIQ2021
 [medium]: https://medium.com/@EzioDev
-
