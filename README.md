@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="/profie-image.jpg.jpg" alt="Profile Image" width="460" />
+  <img src="/GITProfile-image.jpg.jpg" alt="Profile Image" width="460" />
 </div>
 
 
