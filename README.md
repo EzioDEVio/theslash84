@@ -20,7 +20,7 @@ Welcome to my GitHub page! Here, you'll find a collection of projects and contri
 - CI/CD Pipeline
 
 #### CI/CD Pipeline in action:
-![CI/CD Pipeline](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanYzMHV0OG9tZjU5YWhhYnBzYWNtN3Mybmh1bnM0NWt1djBnbjFqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YR23BaooZj2Gpa0VTs/giphy.gif)
+![CI/CD Pipeline](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTF5eXl4emZuaWFsNWoxcXpiaXFpbHJ4NmhoaG91czF3eGdnenIyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 ### Languages and Tools:
 
