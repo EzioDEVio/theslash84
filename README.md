@@ -1,6 +1,6 @@
-<p align="center">
+<div align="left">
   <img src="/profie-image.jpg.jpg" alt="Profile Image" width="460" />
-</p>
+</div>
 
 
 
