@@ -38,6 +38,16 @@ Welcome to my GitHub page! Here, you'll find a collection of projects and contri
 
 📫 Reach out to me at: mohammed.k.aldaraji@hotmail.com
 
+<p align="center">
+  <img src="https://img.shields.io/badge/IoT-3DDC84?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT"/>
+  <img src="https://img.shields.io/badge/Quantum%20Computing-111?style=for-the-badge&logo=ibm&logoColor=white" alt="Quantum Computing"/>
+  <img src="https://img.shields.io/badge/AI%20&%20ML-0078D6?style=for-the-badge&logo=python&logoColor=white" alt="AI & ML"/>
+  <img src="https://img.shields.io/badge/DevOps-FCC624?style=for-the-badge&logo=devops&logoColor=black" alt="DevOps"/>
+  <img src="https://img.shields.io/badge/Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Containerization"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Cloud%20Operations-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cloud Operations"/>
+</p>
+
 😄 Pronouns: He/Him/They/Them
 
 ### Fun Facts from Around the Globe 🌍😄
@@ -52,15 +62,7 @@ Welcome to my GitHub page! Here, you'll find a collection of projects and contri
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/IoT-3DDC84?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT"/>
-  <img src="https://img.shields.io/badge/Quantum%20Computing-111?style=for-the-badge&logo=ibm&logoColor=white" alt="Quantum Computing"/>
-  <img src="https://img.shields.io/badge/AI%20&%20ML-0078D6?style=for-the-badge&logo=python&logoColor=white" alt="AI & ML"/>
-  <img src="https://img.shields.io/badge/DevOps-FCC624?style=for-the-badge&logo=devops&logoColor=black" alt="DevOps"/>
-  <img src="https://img.shields.io/badge/Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Containerization"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Cloud%20Operations-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cloud Operations"/>
-</p>
+
 
 
 ### What I'm working on:
