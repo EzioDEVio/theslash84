@@ -39,6 +39,32 @@ Azure, AWS, GCP, Kubernetes, Docker, Terraform, Ansible, Jenkins, Git, Python, B
   <!-- Add your skills with badges here, using https://shields.io/ -->
 </p>
 
+
+## A Glimpse into My World Beyond Code
+
+### Gamer & High-End PC Builder 🎮💻
+- I'm not just about code; I'm also a passionate gamer and love building high-end gaming PCs.
+- There's a unique joy in assembling powerful machines that can transport us into incredible virtual worlds.
+
+### Tinkerer at Heart: Arduino, Raspberry Pi & Robotics 🤖🔧
+- My fascination doesn't stop at software. I'm proficient with Arduino and Raspberry Pi, delving into the world of IoT and smart solutions.
+- Robotics is another arena where I love to apply my creativity and technical skills.
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gaming-0078D6.svg?&style=for-the-badge&logo=xbox&logoColor=white" alt="Gaming"/>
+  <img src="https://img.shields.io/badge/PC%20Building-0078D6.svg?&style=for-the-badge&logo=nvidia&logoColor=white" alt="PC Building"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?&style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi"/>
+  <img src="https://img.shields.io/badge/Robotics-0078D6.svg?&style=for-the-badge&logo=ABB&logoColor=white" alt="Robotics"/>
+</p>
+
+Feel free to reach out if you're curious about my gaming adventures, PC builds, or tinkering projects with Arduino, Raspberry Pi, and robotics!
+
+[linkedin]: [Your LinkedIn Profile]
+
+
 ### Connect with Me:
 
 <a href="https://www.linkedin.com/in/mohammed-aldaraji-736456b9/">
