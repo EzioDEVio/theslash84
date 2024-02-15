@@ -42,13 +42,13 @@ Azure, AWS, GCP, Kubernetes, Docker, Terraform, Ansible, Jenkins, Git, Python, B
 ### Connect with Me:
 
 <a href="https://www.linkedin.com/in/mohammed-aldaraji-736456b9/">
-  <img align="left" alt="Mohammed Aldaraji | LinkedIn" width="22px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=Linkedin&logoColor=white" />
+  <img alt="Mohammed Aldaraji | LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/KhalidIQ2021">
-  <img align="left" alt="KhalidIQ2021 | Twitter" width="22px" src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=Twitter&logoColor=white" />
+  <img alt="KhalidIQ2021 | Twitter" src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
 <a href="https://medium.com/@EzioDev">
-  <img align="left" alt="EzioDev | Medium" width="22px" src="https://img.shields.io/badge/-Medium-%23000000?style=flat&logo=Medium&logoColor=white" />
+  <img alt="EzioDev | Medium" src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=Medium&logoColor=white" />
 </a>
 
 <br />
