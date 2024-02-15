@@ -145,15 +145,23 @@ Feel free to reach out if you're curious about my gaming adventures, PC builds, 
 
 ### Connect with Me:
 
-<a href="https://www.linkedin.com/in/mohammed-aldaraji-736456b9/">
-  <img alt="Mohammed Aldaraji | LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/KhalidIQ2021">
-  <img alt="KhalidIQ2021 | Twitter" src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
-</a>
-<a href="https://medium.com/@EzioDev">
-  <img alt="EzioDev | Medium" src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=Medium&logoColor=white" />
-</a>
+### Connect with Me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammed-aldaraji-736456b9/">
+    <img alt="Mohammed Aldaraji | LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/KhalidIQ2021">
+    <img alt="KhalidIQ2021 | Twitter" src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@EzioDev">
+    <img alt="EzioDev | Medium" src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/theslash84/">
+    <img alt="Your Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+</p>
+
 
 <br />
 
