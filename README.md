@@ -11,7 +11,7 @@ Welcome to my GitHub page! Here, you'll find a collection of projects and contri
 👯 I’m looking to collaborate on open-source projects related to cloud services and DevOps tooling.  
 🤔 I’m happy to help with your queries on cloud architecture and DevOps strategies.  
 💬 Ask me about Azure, AWS, Kubernetes, Docker, CI/CD pipelines, and anything about cloud computing!  
-📫 How to reach me: [your-email@example.com]  
+📫 How to reach me: mohammed.k.aldaraji@hotmail.com  
 😄 Pronouns: He/Him/They/Them  
 ⚡ Fun fact: I'm a cloud enthusiast who loves to play with code and innovative tech solutions.  
 
@@ -28,12 +28,18 @@ Azure, AWS, GCP, Kubernetes, Docker, Terraform, Ansible, Jenkins, Git, Python, B
 
 ### My GitHub Stats:
 
-!theslash84(https://github-readme-stats.vercel.app/api?username=theslash84&show_icons=true&theme=radical)
+![theslash84's GitHub stats](https://github-readme-stats.vercel.app/api?username=theslash84&show_icons=true&theme=radical)
+
 
 ### Connect with Me:
 
-[<img align="left" alt="YourName | LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linkedin]  
-[<img align="left" alt="YourName | Twitter" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg" />][twitter]
+[<img align="left" alt="Mohammed Aldaraji | LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linkedin]
+[<img align="left" alt="KhalidIQ2021 | Twitter" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg" />][twitter]
+[<img align="left" alt="EzioDev | Medium" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][medium]
+
+[linkedin]: https://www.linkedin.com/in/mohammed-aldaraji-736456b9/
+[twitter]: https://twitter.com/KhalidIQ2021
+[medium]: https://medium.com/@EzioDev
 
 <br />
 
@@ -51,5 +57,7 @@ Azure, AWS, GCP, Kubernetes, Docker, Terraform, Ansible, Jenkins, Git, Python, B
 
 <!-- Links to your social media accounts -->
 
-[linkedin]: https://www.linkedin.com/in/your-linkedin-username/
-[twitter]: https://twitter.com/your-twitter-handle/
+[linkedin]: https://www.linkedin.com/in/mohammed-aldaraji-736456b9/
+[twitter]: https://twitter.com/KhalidIQ2021
+[medium]: https://medium.com/@EzioDev
+
