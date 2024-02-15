@@ -13,10 +13,8 @@ Hello! I'm Mohammed, based in the vibrant city of Tampa, Florida - a place renow
 - 🌱 **Nature & Outdoors**: Exploring Florida's natural beauty, from lush parks to scenic waterfronts.
 
 #### 🏈🏒 Tampa's Sports Pride
-- **Go Bucs!** Proudly cheering for the Tampa Bay Buccaneers. Their determination and resilience mirror my approach to technology challenges.
-  ![Tampa Bay Buccaneers](https://img.shields.io/badge/Tampa%20Bay%20Buccaneers-B89D29?style=for-the-badge&logo=nfl&logoColor=white)
-- **Lightning Strikes**: A big fan of the Tampa Bay Lightning. Their speed and agility are qualities I admire and apply in my work.
-  ![Tampa Bay Lightning](https://img.shields.io/badge/Tampa%20Bay%20Lightning-002868?style=for-the-badge&logo=nhl&logoColor=white)
+- **Go Bucs!**  ![Tampa Bay Buccaneers](https://img.shields.io/badge/Tampa%20Bay%20Buccaneers-B89D29?style=for-the-badge&logo=nfl&logoColor=white)
+- **Lightning Strikes**: ![Tampa Bay Lightning](https://img.shields.io/badge/Tampa%20Bay%20Lightning-002868?style=for-the-badge&logo=nhl&logoColor=white)
 
 
 Living in the Sunshine State not only provides a fantastic backdrop for my tech endeavors but also contributes to my passion for innovation and exploration in the vast field of technology.
