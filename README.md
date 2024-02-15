@@ -1,4 +1,4 @@
-![Profile Picture](/my image.jpg)
+![Profile Picture](/myimage.jpg)
 
 
 
