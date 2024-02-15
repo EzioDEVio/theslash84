@@ -1,4 +1,6 @@
-![Profile Picture](/profie-image.jpg)
+<p align="center">
+  <img src="/profie-image.jpg.jpg" alt="Profile Image" width="460" />
+</p>
 
 
 
