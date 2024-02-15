@@ -145,8 +145,6 @@ Feel free to reach out if you're curious about my gaming adventures, PC builds, 
 
 ### Connect with Me:
 
-### Connect with Me:
-
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammed-aldaraji-736456b9/">
     <img alt="Mohammed Aldaraji | LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
