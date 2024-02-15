@@ -40,7 +40,13 @@ Welcome to my GitHub page! Here, you'll find a collection of projects and contri
 
 😄 Pronouns: He/Him/They/Them
 
-⚡ Fun fact: Beyond my professional endeavors, I'm a cloud enthusiast who loves delving into code, gaming, and building innovative tech solutions.
+### Fun Facts from Around the Globe 🌍😄
+
+- 🍫 **Chocolate Currency**: Once upon a time, the ancient Mayans used cocoa beans as currency. Imagine buying cloud storage with chocolate today!😄😄😄
+- 🍍 **Pineapples Take Two Years to Grow**: It takes two years for a pineapple to mature. That's longer than most of my coding projects!
+- 🌳 **A Plant Older Than the Pyramids**: There’s a shrub in Africa called Welwitschia that's over 2,000 years old - almost a contemporary of legacy code systems!
+- 🚀 **A Day on Venus**: A day on Venus (243 Earth days) is longer than a year on Venus (225 Earth days). Talk about long deployment cycles!
+- 🎮 **Gamer Alert**: My gaming skills are so legendary, even my console needs a cooldown period. Yes, that's my excuse for taking gaming breaks!
 
 ---
 
