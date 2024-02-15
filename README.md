@@ -62,7 +62,7 @@ Azure, AWS, GCP, Kubernetes, Docker, Terraform, Ansible, Jenkins, Git, Python, B
 
 Feel free to reach out if you're curious about my gaming adventures, PC builds, or tinkering projects with Arduino, Raspberry Pi, and robotics!
 
-[linkedin]: [Your LinkedIn Profile]
+
 
 
 ### Connect with Me:
