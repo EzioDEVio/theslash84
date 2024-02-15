@@ -11,13 +11,25 @@ Welcome to my GitHub page! Here, you'll find a collection of projects and contri
 ### About Me
 
 🔭 I’m currently working on cloud migration and infrastructure automation.  
-🌱 I’m continuously learning about AI/ML, containerization, and cloud-native technologies.  
-👯 I’m looking to collaborate on open-source projects related to cloud services and DevOps tooling.  
-🤔 I’m happy to help with your queries on cloud architecture and DevOps strategies.  
+🌱 Continuously learning about AI/ML, containerization, and cloud-native technologies.  
+📡 Professional in IoT, creating smart solutions that connect and simplify life.  
+🌌 Exploring the quantum realm, studying and experimenting with quantum computing technologies like IBM QISKIT.  
+🤖 Learned and created ML projects, proficient in AI applications that push the boundaries of technology.  
+👯 Looking to collaborate on open-source projects related to cloud services, IoT, and DevOps tooling.  
+🤔 Happy to help with queries on cloud architecture, IoT, AI, ML, and quantum computing strategies.  
 💬 Ask me about Azure, AWS, Kubernetes, Docker, CI/CD pipelines, and anything about cloud computing!  
 📫 How to reach me: mohammed.k.aldaraji@hotmail.com  
 😄 Pronouns: He/Him/They/Them  
 ⚡ Fun fact: I'm a cloud enthusiast who loves to play with code and innovative tech solutions.
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IoT-3DDC84?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT"/>
+  <img src="https://img.shields.io/badge/Quantum%20Computing-111?style=for-the-badge&logo=ibm&logoColor=white" alt="Quantum Computing"/>
+  <img src="https://img.shields.io/badge/AI%20&%20ML-0078D6?style=for-the-badge&logo=python&logoColor=white" alt="AI & ML"/>
+</p>
+
 
 ### What I'm working on:
 
