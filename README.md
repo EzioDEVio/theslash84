@@ -17,7 +17,7 @@ Welcome to my GitHub page! Here, you'll find a collection of projects and contri
 
 ### What I'm working on: 
 
-![CI/CD Pipeline](https://somegifurl.gif)  
+![CI/CD Pipeline]([https://somegifurl.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanYzMHV0OG9tZjU5YWhhYnBzYWNtN3Mybmh1bnM0NWt1djBnbjFqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YR23BaooZj2Gpa0VTs/giphy.gif))  
 *CI/CD Pipeline in action*
 
 ### Languages and Tools:
