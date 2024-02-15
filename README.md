@@ -96,10 +96,7 @@ Welcome to my GitHub page! Here, you'll find a collection of projects and contri
 
 ![theslash84's GitHub stats](https://github-readme-stats.vercel.app/api?username=theslash84&show_icons=true&theme=tokyonight)
 
-<h3 align="left">🚀 Skills and Tools:</h3>
-<p align="left">
-  <!-- Add your skills with badges here, using https://shields.io/ -->
-</p>
+
 
 😄 Pronouns: He/Him/They/Them
 
