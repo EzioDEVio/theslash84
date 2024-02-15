@@ -85,7 +85,8 @@ Welcome to my GitHub page! Here, you'll find a collection of projects and contri
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
   <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azuredevops"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
@@ -107,8 +108,6 @@ Welcome to my GitHub page! Here, you'll find a collection of projects and contri
 - 🌳 **A Plant Older Than the Pyramids**: There’s a shrub in Africa called Welwitschia that's over 2,000 years old - almost a contemporary of legacy code systems!
 - 🚀 **A Day on Venus**: A day on Venus (243 Earth days) is longer than a year on Venus (225 Earth days). Talk about long deployment cycles!
 - 🎮 **Gamer Alert**: My gaming skills are so legendary, even my console needs a cooldown period. Yes, that's my excuse for taking gaming breaks!
-
----
 
 ---
 
