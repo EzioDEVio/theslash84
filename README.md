@@ -166,8 +166,8 @@ Feel free to reach out if you're curious about my gaming adventures, PC builds, 
 
 ### Featured Projects:
 
-- 🔒 [Secure Cloud Architecture](#) - A project focused on implementing security best practices in cloud deployments.  
-- 📊 [Cloud Analytics Platform](#) - Enabling insightful analytics and BI on cloud data.  
+- 🔒 [AzureFunctionClamavKubernetes](#) - A project focused on deploying an Azure Function integrated with ClamAV within a Kubernetes environment.  
+- 📊 [gh-repo-stats](#) - a refined GitHub CLI extension meticulously designed by Mohammed Aldaraji. This extension serves as a powerful tool in your CLI arsenal, offering instant access to essential statistics of any GitHub repository.  
 - 🔄 [CI/CD Pipeline Templates](#) - Templates and guides for setting up continuous integration and deployment pipelines.
 
 ### Recent Blog Posts:
